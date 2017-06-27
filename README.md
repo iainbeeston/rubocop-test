@@ -1,24 +1,3 @@
-# README
+[![Build Status](https://travis-ci.org/iainbeeston/rubocop-test.svg?branch=master)](https://travis-ci.org/iainbeeston/rubocop-test)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a sample app to reproduce the [rubocop issue #4553](https://github.com/bbatsov/rubocop/issues/4553). See the travis build (above) for the rubocop output with the error.
